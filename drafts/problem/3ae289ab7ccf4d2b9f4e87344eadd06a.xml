@@ -1,0 +1,45 @@
+<problem display_name="Multiple Choice" markdown="1. In a mechanism with input link 30cm and coupler 40cm, what is the magnitude of velocity of Output link at an instant when the coupler forms a right angle with the input link and both input and coupler are rotating at an angular speed of 1rad/s?&#10;&#10; (x)   50cm/s&#10; ()   10cm/s&#10; ()  35cm/s&#10; ()   70cm/s&#10; &#10; 3. For parallelogram linkage (length of input and output are same, length of coupler and fixed link are same) ?&#10;&#10;()    Input velocity = Output velocity&#10;()    Velocity of fixed link is zero&#10;()    Angular velocity of coupler is zero&#10;(x)    All given statements are correct&#10;&#10;4. For a constant input angular velocity which of the following is true always?&#10;&#10; ()   angular velocity of coupler and output are both constant&#10; ()   angular velocity of coupler is constant&#10; (x)   None of these&#10; ()   angular velocity of output is constant&#10; &#10; 5. Which of the following has angular acceleration zero always?&#10;&#10; (x)   All of these&#10; ()   Input link with constant angular acceleration&#10; ()   Output link in parallelogram linkage with constant input angular velocity&#10; ()&#9;  Coupler link in parallelogram linkage">
+<p>1. In a mechanism with input link 30cm and coupler 40cm, what is the magnitude of velocity of Output link at an instant when the coupler forms a right angle with the input link and both input and coupler are rotating at an angular speed of 1rad/s?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">50cm/s</choice>
+    <choice correct="false">10cm/s</choice>
+    <choice correct="false">35cm/s</choice>
+    <choice correct="false">70cm/s</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 3. For parallelogram linkage (length of input and output are same, length of coupler and fixed link are same) ?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Input velocity = Output velocity</choice>
+    <choice correct="false">Velocity of fixed link is zero</choice>
+    <choice correct="false">Angular velocity of coupler is zero</choice>
+    <choice correct="true">All given statements are correct</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. For a constant input angular velocity which of the following is true always?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">angular velocity of coupler and output are both constant</choice>
+    <choice correct="false">angular velocity of coupler is constant</choice>
+    <choice correct="true">None of these</choice>
+    <choice correct="false">angular velocity of output is constant</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 5. Which of the following has angular acceleration zero always?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">All of these</choice>
+    <choice correct="false">Input link with constant angular acceleration</choice>
+    <choice correct="false">Output link in parallelogram linkage with constant input angular velocity</choice>
+    <choice correct="false">Coupler link in parallelogram linkage</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

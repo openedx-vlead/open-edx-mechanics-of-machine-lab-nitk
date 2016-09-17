@@ -1,0 +1,57 @@
+<problem display_name="Multiple Choice" markdown="1. Number of links in Peaucellier Mechanism&#10;&#10; (x)   8&#10; ()   4&#10; ()   None of these&#10; ()   6&#10; &#10; 2. The links in a peaucellier mechanism are ?&#10;&#10; ()   Ternary link&#10; (x)   Binary link&#10; ()   Flexible link&#10; ()   None of these&#10; &#10; 3. Coupled wheel of locomotive is an inversion of&#10;&#10; ()   Double slider crank mechanism&#10; (x)   Four bar mechanism&#10; ()   Slider crank mechanism&#10; ()   Six bar mechanism&#10; &#10; 4. Grashof's condition is the necessary condition for?&#10;&#10;()    Intermittent motion&#10;(x)    Continuous motion&#10; ()   Non Continuous motion&#10; ()   None of these&#10; &#10; 5. Which of the following straight line mechanisms is a four bar chain?&#10;&#10;  ()  Peaucellier&#10;  ()  Tchebichev&#10;  ()  Hart&#10;  (x)  None of these">
+<p>1. Number of links in Peaucellier Mechanism</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">8</choice>
+    <choice correct="false">4</choice>
+    <choice correct="false">None of these</choice>
+    <choice correct="false">6</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 2. The links in a peaucellier mechanism are ?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Ternary link</choice>
+    <choice correct="true">Binary link</choice>
+    <choice correct="false">Flexible link</choice>
+    <choice correct="false">None of these</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 3. Coupled wheel of locomotive is an inversion of</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Double slider crank mechanism</choice>
+    <choice correct="true">Four bar mechanism</choice>
+    <choice correct="false">Slider crank mechanism</choice>
+    <choice correct="false">Six bar mechanism</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 4. Grashof's condition is the necessary condition for?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Intermittent motion</choice>
+    <choice correct="true">Continuous motion</choice>
+    <choice correct="false">Non Continuous motion</choice>
+    <choice correct="false">None of these</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 5. Which of the following straight line mechanisms is a four bar chain?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Peaucellier</choice>
+    <choice correct="false">Tchebichev</choice>
+    <choice correct="false">Hart</choice>
+    <choice correct="true">None of these</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

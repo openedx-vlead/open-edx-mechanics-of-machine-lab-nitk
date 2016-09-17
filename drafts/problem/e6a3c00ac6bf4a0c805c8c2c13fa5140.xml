@@ -1,0 +1,56 @@
+<problem display_name="Multiple Choice" markdown="1. For a link with constant angular velocity which is constant?&#10;&#10;(x)    Magnitude of linear velocity of a point on link&#10;()    Direction of linear velocity of a point on link&#10;()    Magnitude and Direction of linear velocity of a point on link&#10;()    Neither Magnitude nor Direction of linear velocity of a point on link&#10;&#10;2. Angular velocity of a fixed link is&#10;&#10; (x)   zero&#10; ()   same as input link&#10; ()   same as coupler link&#10; ()   None of these&#10; &#10; 3. Angular Acceleration of input link rotating with constant angular velocity is&#10;&#10; ()   Negative&#10; (x)   Zero&#10; ()   Positive&#10; ()   Can't be Determined&#10; &#10; 4. For a 20cm link rotating about one end with an angular velocity of 2 rad/s what will be the linear velocity of the other end ?&#10;&#10;  ()  80cm/s&#10;  ()  400cm/s&#10;  ()  800cm/s&#10;  (x)  40cm/s&#10;  &#10;  5. For a link with constant angular velocity which is constant?&#10;&#10; (x)   Magnitude of linear velocity of a point on link&#10; ()   Direction of linear velocity of a point on link&#10; ()   Magnitude and Direction of linear velocity of a point on link&#10;  ()  Neither Magnitude nor Direction of linear velocity of a point on link">
+<p>1. For a link with constant angular velocity which is constant?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Magnitude of linear velocity of a point on link</choice>
+    <choice correct="false">Direction of linear velocity of a point on link</choice>
+    <choice correct="false">Magnitude and Direction of linear velocity of a point on link</choice>
+    <choice correct="false">Neither Magnitude nor Direction of linear velocity of a point on link</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. Angular velocity of a fixed link is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">zero</choice>
+    <choice correct="false">same as input link</choice>
+    <choice correct="false">same as coupler link</choice>
+    <choice correct="false">None of these</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 3. Angular Acceleration of input link rotating with constant angular velocity is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Negative</choice>
+    <choice correct="true">Zero</choice>
+    <choice correct="false">Positive</choice>
+    <choice correct="false">Can't be Determined</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 4. For a 20cm link rotating about one end with an angular velocity of 2 rad/s what will be the linear velocity of the other end ?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">80cm/s</choice>
+    <choice correct="false">400cm/s</choice>
+    <choice correct="false">800cm/s</choice>
+    <choice correct="true">40cm/s</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+<p>  5. For a link with constant angular velocity which is constant?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Magnitude of linear velocity of a point on link</choice>
+    <choice correct="false">Direction of linear velocity of a point on link</choice>
+    <choice correct="false">Magnitude and Direction of linear velocity of a point on link</choice>
+    <choice correct="false">Neither Magnitude nor Direction of linear velocity of a point on link</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

@@ -1,0 +1,51 @@
+<problem display_name="Multiple Choice" markdown="1. Which of the following can not be a function representing output motion of scotch yoke mechanism (t is time)?&#10;&#10;()    sin t&#10;()    cos t&#10;()    None of these&#10;(x)    tan t&#10;&#10;2. For crank radius 10cm what is the distance between extremes of the reciprocating part in scotch yoke mechanism?&#10;&#10;(x)    20cm&#10;()    10cm&#10;()    5cm&#10;()    None of these&#10;&#10;3. Angular velocity of crank is equivalent to&#10;&#10;()    amplitude of SHM&#10;(x)    frequency of oscillation in SHM&#10;()    none of these&#10;()    phase lag of SHM&#10;&#10;4. Scotch yoke mechanism follows SHM.&#10;&#10;(x)    True&#10;()    False&#10;&#10;5. Which of the following can not be representing output motion of scotch yoke mechanism&#10;&#10;()    sin(t+k)&#10;()    sin(t)&#10;(x)    All given options can be representing output motion of scotch yoke mechanism&#10;()    k+sin(t)">
+<p>1. Which of the following can not be a function representing output motion of scotch yoke mechanism (t is time)?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">sin t</choice>
+    <choice correct="false">cos t</choice>
+    <choice correct="false">None of these</choice>
+    <choice correct="true">tan t</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. For crank radius 10cm what is the distance between extremes of the reciprocating part in scotch yoke mechanism?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">20cm</choice>
+    <choice correct="false">10cm</choice>
+    <choice correct="false">5cm</choice>
+    <choice correct="false">None of these</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. Angular velocity of crank is equivalent to</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">amplitude of SHM</choice>
+    <choice correct="true">frequency of oscillation in SHM</choice>
+    <choice correct="false">none of these</choice>
+    <choice correct="false">phase lag of SHM</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. Scotch yoke mechanism follows SHM.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. Which of the following can not be representing output motion of scotch yoke mechanism</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">sin(t+k)</choice>
+    <choice correct="false">sin(t)</choice>
+    <choice correct="true">All given options can be representing output motion of scotch yoke mechanism</choice>
+    <choice correct="false">k+sin(t)</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

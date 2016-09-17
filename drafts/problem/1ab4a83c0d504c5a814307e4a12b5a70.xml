@@ -1,0 +1,57 @@
+<problem display_name="Multiple Choice" markdown="1. Magnitude of velocity (at the joint with connecting rod) of 10cm crank rotating at 3rpm (CW) when crank angle is 90o?&#10;&#10; ()   0&#10; ()   6.28cm/s&#10; (x)   3.14cm/s&#10; ()   None of these&#10; &#10;2. For connecting rod of 20cm and l/r ratio 2, when crank angle is 270o what is the magnitude of velocity of slider?&#10;&#10; ()   0&#10;(x)    Data insufficient&#10; ()   2cm/s&#10;  ()  10cm/s &#10;  &#10;3. At 0o crank angle of zero offset slider crank mechanism what is magnitude of angular velocity of connecting rod for l/r = 4 and angular velocity of crank 1 rad/s?&#10;&#10; ()   4rad/s&#10; (x)   0.25rad/s&#10; ()   1 rad/s&#10; ()   Data insufficient  &#10; &#10; 4. Velocity of slider when crank and connecting rod are aligned&#10;&#10; ()   maximum&#10; ()   half the maximum&#10; ()   minimum&#10; (x)   0&#10; &#10; 5. Magnitude of angular velocity of connecting rod in zero offset slider crank at crank angle 90o&#10;  ()  less than angular velocity of crank&#10;  (x)  0&#10;  ()  None of these&#10;  ()   greater than angular velocity of crank">
+<p>1. Magnitude of velocity (at the joint with connecting rod) of 10cm crank rotating at 3rpm (CW) when crank angle is 90o?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">0</choice>
+    <choice correct="false">6.28cm/s</choice>
+    <choice correct="true">3.14cm/s</choice>
+    <choice correct="false">None of these</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p>2. For connecting rod of 20cm and l/r ratio 2, when crank angle is 270o what is the magnitude of velocity of slider?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">0</choice>
+    <choice correct="true">Data insufficient</choice>
+    <choice correct="false">2cm/s</choice>
+    <choice correct="false">10cm/s</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+<p>3. At 0o crank angle of zero offset slider crank mechanism what is magnitude of angular velocity of connecting rod for l/r = 4 and angular velocity of crank 1 rad/s?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">4rad/s</choice>
+    <choice correct="true">0.25rad/s</choice>
+    <choice correct="false">1 rad/s</choice>
+    <choice correct="false">Data insufficient</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 4. Velocity of slider when crank and connecting rod are aligned</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">maximum</choice>
+    <choice correct="false">half the maximum</choice>
+    <choice correct="false">minimum</choice>
+    <choice correct="true">0</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 5. Magnitude of angular velocity of connecting rod in zero offset slider crank at crank angle 90o</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">less than angular velocity of crank</choice>
+    <choice correct="true">0</choice>
+    <choice correct="false">None of these</choice>
+    <choice correct="false">greater than angular velocity of crank</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

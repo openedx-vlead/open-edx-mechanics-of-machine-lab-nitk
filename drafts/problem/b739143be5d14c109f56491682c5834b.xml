@@ -1,0 +1,56 @@
+<problem display_name="Multiple Choice" markdown="1. Which point on the Tchebichev Mechanism moves in approximate straight line?&#10;&#10; ()   End-point of shortest link&#10; ()   Mid-point of longest link&#10; ()   None of these&#10;  (x)  Mid-point of shortest link &#10;  &#10;  2. Watt's linkage draws&#10;&#10;()    Perfect Straight Line&#10;()    Circle&#10;(x)    Approximate Straight Line&#10;()    None of these&#10;&#10;3. If the shortest link is 10cm in Tchebichev Mechanism, what is the length of longest link?&#10;&#10; ()   20cm&#10;(x)    25cm&#10; ()   15cm&#10; ()   30cm&#10; &#10; 4. Grashof's condition is the necessary condition for?&#10;&#10;  (x)  Continuous motion&#10;  ()  Intermittent motion&#10;  ()  Non Continuous motion&#10;  ()  None of these&#10;  &#10;  5. The ratio of links in Tchebichev Mechanism (Shortest:Fixed:RemainingTwo) is ?&#10;&#10;  (x)  1:2:2.5&#10;  ()  1:2.5:2&#10;  ()  1:4:2&#10;  ()  1:2:4">
+<p>1. Which point on the Tchebichev Mechanism moves in approximate straight line?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">End-point of shortest link</choice>
+    <choice correct="false">Mid-point of longest link</choice>
+    <choice correct="false">None of these</choice>
+    <choice correct="true">Mid-point of shortest link</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+<p>  2. Watt's linkage draws</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Perfect Straight Line</choice>
+    <choice correct="false">Circle</choice>
+    <choice correct="true">Approximate Straight Line</choice>
+    <choice correct="false">None of these</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. If the shortest link is 10cm in Tchebichev Mechanism, what is the length of longest link?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">20cm</choice>
+    <choice correct="true">25cm</choice>
+    <choice correct="false">15cm</choice>
+    <choice correct="false">30cm</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 4. Grashof's condition is the necessary condition for?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Continuous motion</choice>
+    <choice correct="false">Intermittent motion</choice>
+    <choice correct="false">Non Continuous motion</choice>
+    <choice correct="false">None of these</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+<p>  5. The ratio of links in Tchebichev Mechanism (Shortest:Fixed:RemainingTwo) is ?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">1:2:2.5</choice>
+    <choice correct="false">1:2.5:2</choice>
+    <choice correct="false">1:4:2</choice>
+    <choice correct="false">1:2:4</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

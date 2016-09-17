@@ -1,0 +1,57 @@
+<problem display_name="Multiple Choice" markdown="1. For l/r ratio 3 and crank length equal to offset what is the quick return ratio?&#10;&#10; (x)   1.19&#10; ()   1.59&#10; ()   None of these&#10; ()   1.39&#10; &#10; 2. Slider is at extreme position when&#10;&#10; ()   none of these&#10; ()   crank and connecting rod are perpendicular&#10;(x)    crank and connecting rod are aligned&#10; ()   depends on link lengths&#10; &#10; 3. For l/r ratio 3 and offset equal to 1.5 times the cranklength what is the quick return ratio?&#10;&#10;  ()  None of these&#10; (x)  1.35&#10;  ()  1.55&#10;  ()  1.45&#10;  &#10;  4. For given offset and crank length decrease in connecting rod length leads to&#10;&#10;  (x)  increase in QRR&#10;  ()  no change in QRR&#10;  ()  decrease in QRR&#10;  ()  can't be determined&#10;  &#10;  5. With increase in offset from 0 to crank length QRR?&#10;&#10;  ()  decreases&#10; (x)  increases&#10;  ()  increase upto half of crank length then decreases&#10;  ()  remains same">
+<p>1. For l/r ratio 3 and crank length equal to offset what is the quick return ratio?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">1.19</choice>
+    <choice correct="false">1.59</choice>
+    <choice correct="false">None of these</choice>
+    <choice correct="false">1.39</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 2. Slider is at extreme position when</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">none of these</choice>
+    <choice correct="false">crank and connecting rod are perpendicular</choice>
+    <choice correct="true">crank and connecting rod are aligned</choice>
+    <choice correct="false">depends on link lengths</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 3. For l/r ratio 3 and offset equal to 1.5 times the cranklength what is the quick return ratio?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">None of these</choice>
+    <choice correct="true">1.35</choice>
+    <choice correct="false">1.55</choice>
+    <choice correct="false">1.45</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+<p>  4. For given offset and crank length decrease in connecting rod length leads to</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">increase in QRR</choice>
+    <choice correct="false">no change in QRR</choice>
+    <choice correct="false">decrease in QRR</choice>
+    <choice correct="false">can't be determined</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+<p>  5. With increase in offset from 0 to crank length QRR?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">decreases</choice>
+    <choice correct="true">increases</choice>
+    <choice correct="false">increase upto half of crank length then decreases</choice>
+    <choice correct="false">remains same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
