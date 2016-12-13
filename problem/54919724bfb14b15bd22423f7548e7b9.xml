@@ -1,0 +1,49 @@
+<problem display_name="Multiple Choice" markdown="1. For a 10cm link what is the value of tangential acceleration when it is rotating with a constant angular velocity of 2rad/s ?&#10;&#10;  ()  40cm/s&#10;  ()  40cm/s2&#10;  (x)  0cm/s2&#10;  ()  20cm/s2&#10;  &#10;  2. For a 10cm link what is the magnitude of total acceleration at an instant when it is rotating with an angular velocity of 2rad/s and angular acceleration is 3rad/s2?&#10;&#10; ()   10cm/s2&#10; (x)   50cm/s2&#10; ()   70cm/s2&#10; ()   70cm/s&#10; &#10; 3. When non-zero, Centripetal and Tangential acceleration are&#10;&#10; (x)   Perpendicular to each other&#10;()    Parallel to each other&#10;()    Inclined to each other at an angle between 0o and 90o&#10;()    Inclined to each other at an angle more than 90o&#10;&#10;4. For a 10cm link what is the value of centripetal acceleration when it is rotating with a constant angular velocity of 2rad/s?&#10;&#10;()    0cm/s2&#10;()    20cm/s2&#10;()    40cm/s&#10;(x)   40cm/s2&#10;&#10;5. Angle made by the total acceleration of a point on the link with the link when the magnitude of angular acceleration is square of magnitude of centripetal acceleration&#10;&#10; ()   Can't be determined&#10; (x)   45o&#10; ()   90o&#10; ()   0o">
+  <p>1. For a 10cm link what is the value of tangential acceleration when it is rotating with a constant angular velocity of 2rad/s ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">40cm/s</choice>
+      <choice correct="false">40cm/s2</choice>
+      <choice correct="true">0cm/s2</choice>
+      <choice correct="false">20cm/s2</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  2. For a 10cm link what is the magnitude of total acceleration at an instant when it is rotating with an angular velocity of 2rad/s and angular acceleration is 3rad/s2?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">10cm/s2</choice>
+      <choice correct="true">50cm/s2</choice>
+      <choice correct="false">70cm/s2</choice>
+      <choice correct="false">70cm/s</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 3. When non-zero, Centripetal and Tangential acceleration are</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Perpendicular to each other</choice>
+      <choice correct="false">Parallel to each other</choice>
+      <choice correct="false">Inclined to each other at an angle between 0o and 90o</choice>
+      <choice correct="false">Inclined to each other at an angle more than 90o</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. For a 10cm link what is the value of centripetal acceleration when it is rotating with a constant angular velocity of 2rad/s?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">0cm/s2</choice>
+      <choice correct="false">20cm/s2</choice>
+      <choice correct="false">40cm/s</choice>
+      <choice correct="true">40cm/s2</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. Angle made by the total acceleration of a point on the link with the link when the magnitude of angular acceleration is square of magnitude of centripetal acceleration</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Can't be determined</choice>
+      <choice correct="true">45o</choice>
+      <choice correct="false">90o</choice>
+      <choice correct="false">0o</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

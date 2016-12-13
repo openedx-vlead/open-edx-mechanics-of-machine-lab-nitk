@@ -1,0 +1,49 @@
+<problem display_name="Multiple Choice" markdown="1. How many revolute joints does a slider crank mechanism have?&#10;&#10; ()   1&#10; (x)  3&#10; ()   0&#10; ()   4&#10;    &#10;2. QRR for zero offset slider crank mechanism?&#10;&#10;()    0.5&#10;()    0&#10;()    None of these&#10;(x)    1    &#10;&#10;3. In offset slider crank mechanism, for a given input crank angle how many positions of the slider are possible for fixed link lengths?&#10;&#10;()    More than 2&#10;()    At least 2&#10;(x)    Only 1&#10;()    Depends on link lengths&#10;&#10;4. How many prismatic joints does a slider crank mechanism have&#10;&#10;(x)    1&#10; ()   3&#10; ()   0&#10; ()   4&#10; &#10; 5. In offset slider crank positionAt which of the following crank angle positions is the slider at its extreme position&#10;&#10; (x)   depends on link lengths and offset&#10; ()   depends only on offset&#10; ()   depends only on link lengths&#10; ()   0o and 180o">
+  <p>1. How many revolute joints does a slider crank mechanism have?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1</choice>
+      <choice correct="true">3</choice>
+      <choice correct="false">0</choice>
+      <choice correct="false">4</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>2. QRR for zero offset slider crank mechanism?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">0.5</choice>
+      <choice correct="false">0</choice>
+      <choice correct="false">None of these</choice>
+      <choice correct="true">1</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. In offset slider crank mechanism, for a given input crank angle how many positions of the slider are possible for fixed link lengths?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">More than 2</choice>
+      <choice correct="false">At least 2</choice>
+      <choice correct="true">Only 1</choice>
+      <choice correct="false">Depends on link lengths</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. How many prismatic joints does a slider crank mechanism have</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">1</choice>
+      <choice correct="false">3</choice>
+      <choice correct="false">0</choice>
+      <choice correct="false">4</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 5. In offset slider crank positionAt which of the following crank angle positions is the slider at its extreme position</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">depends on link lengths and offset</choice>
+      <choice correct="false">depends only on offset</choice>
+      <choice correct="false">depends only on link lengths</choice>
+      <choice correct="false">0o and 180o</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>
