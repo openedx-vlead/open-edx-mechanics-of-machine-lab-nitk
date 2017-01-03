@@ -1,0 +1,50 @@
+<problem display_name="Multiple Choice" markdown="1. Grashof's condition is the necessary condition for?&#10;&#10;(x)    Continuous motion&#10;()    Non Continuous motion&#10;()    Intermittent motion&#10;()    None of these&#10;&#10;2. Number of links in Hart's Inversor is&#10;&#10; (x)   6&#10; ()   5&#10; ()   4&#10; ()   None of these&#10; &#10; 3. The links in a four bar mechanism is ?&#10;&#10; ()   Ternary link&#10; (x)   Binary link&#10; ()   None of these&#10; ()   Flexible link&#10; &#10; 4. How many different link lengths are there in Hart's Inversor?&#10;&#10;  ()  6&#10; (x)   3&#10;  ()  4&#10;  ()  None of these&#10;  &#10;  5. Hart's Inversor draws a&#10;&#10; (x)   Perfect Straight Line&#10;  ()  None of these&#10;  ()  Approximate Straight Line&#10;  ()  Circle&#9;">
+  <p>1. Grashof's condition is the necessary condition for?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Continuous motion</choice>
+      <choice correct="false">Non Continuous motion</choice>
+      <choice correct="false">Intermittent motion</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. Number of links in Hart's Inversor is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">6</choice>
+      <choice correct="false">5</choice>
+      <choice correct="false">4</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 3. The links in a four bar mechanism is ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Ternary link</choice>
+      <choice correct="true">Binary link</choice>
+      <choice correct="false">None of these</choice>
+      <choice correct="false">Flexible link</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 4. How many different link lengths are there in Hart's Inversor?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">6</choice>
+      <choice correct="true">3</choice>
+      <choice correct="false">4</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  5. Hart's Inversor draws a</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Perfect Straight Line</choice>
+      <choice correct="false">None of these</choice>
+      <choice correct="false">Approximate Straight Line</choice>
+      <choice correct="false">Circle</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

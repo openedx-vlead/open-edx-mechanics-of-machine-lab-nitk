@@ -1,0 +1,51 @@
+<problem display_name="Multiple Choice" markdown="1. Tangential Acceleration at a point on a link is not proportional to ?&#10;&#10; ()   Angular acceleration of the link&#10; ()   None of these&#10; (x)   Angular Velocity of the link&#10; ()   Radial distance to the point on the link&#10; &#10; 2. Which amongst the following are not defined in case of a rotating link?&#10;&#10; (x)   All mentioned accelerations are defined&#10; ()   Tangetial Acceleration&#10; ()   Total Acceleration&#10; ()   Centripetal Acceleration&#10; &#10; 3. Angular acceleration of input link rotating with a constant angular velocity is ?&#10;&#10; ()   unity&#10; (x)   zero&#10; ()   not defined&#10; ()   can not be determined without link length&#10; &#10; 4. Tangential Acceleration at a point on a link ?&#10;&#10; (x)   is perpendicular to the link&#10; ()   None of these&#10; ()   is parallel to the link&#10; ()   is at 45o to the link in the direction of motion&#10; &#10; 5. Centripetal Acceleration at a point on a link does not depend on ?&#10;&#10;()    Radial distance to the point on the link&#10;()    None of these&#10;(x)    Angular acceleration of the link&#10;()    Angular Velocity of the link">
+  <p>1. Tangential Acceleration at a point on a link is not proportional to ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Angular acceleration of the link</choice>
+      <choice correct="false">None of these</choice>
+      <choice correct="true">Angular Velocity of the link</choice>
+      <choice correct="false">Radial distance to the point on the link</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 2. Which amongst the following are not defined in case of a rotating link?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">All mentioned accelerations are defined</choice>
+      <choice correct="false">Tangetial Acceleration</choice>
+      <choice correct="false">Total Acceleration</choice>
+      <choice correct="false">Centripetal Acceleration</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 3. Angular acceleration of input link rotating with a constant angular velocity is ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">unity</choice>
+      <choice correct="true">zero</choice>
+      <choice correct="false">not defined</choice>
+      <choice correct="false">can not be determined without link length</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 4. Tangential Acceleration at a point on a link ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">is perpendicular to the link</choice>
+      <choice correct="false">None of these</choice>
+      <choice correct="false">is parallel to the link</choice>
+      <choice correct="false">is at 45o to the link in the direction of motion</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 5. Centripetal Acceleration at a point on a link does not depend on ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Radial distance to the point on the link</choice>
+      <choice correct="false">None of these</choice>
+      <choice correct="true">Angular acceleration of the link</choice>
+      <choice correct="false">Angular Velocity of the link</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

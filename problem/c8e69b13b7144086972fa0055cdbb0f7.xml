@@ -1,0 +1,49 @@
+<problem display_name="Multiple Choice" markdown="1. Coupled wheel of locomotive is an inversion of&#10;&#10;()    Six bar mechanism&#10;()    Slider crank mechanism&#10;(x)    Four bar mechanism&#10;()    Double slider crank mechanism&#10;&#10;2. Which of these gives a perfect straight line motion?&#10;&#10; (x)   Hart's Inversor&#10; ()   Modified Scott Russel Mechanism&#10; ()   Watt's straight line linkage&#10; ()   None of these&#10;    &#10;3. Which of the following is the inversion of four bar chain?&#10;&#10;(x)    Beam engine&#10;()    Pendulum pump&#10;()    Oscillating cylinder&#10;()    None of these    &#10;  &#10;4. Watts indicator is an inversion of&#10;&#10;()    Six bar mechanism&#10;()    Double slider crank mechanism&#10;()    Slider crank mechanism&#10;(x)    Four bar mechanism   &#10;&#10;5. The links in a four bar mechanism is ?&#10;&#10; (x)   Binary link&#10; ()   Flexible link&#10; ()   None of these&#10; ()   Ternary link">
+  <p>1. Coupled wheel of locomotive is an inversion of</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Six bar mechanism</choice>
+      <choice correct="false">Slider crank mechanism</choice>
+      <choice correct="true">Four bar mechanism</choice>
+      <choice correct="false">Double slider crank mechanism</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. Which of these gives a perfect straight line motion?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Hart's Inversor</choice>
+      <choice correct="false">Modified Scott Russel Mechanism</choice>
+      <choice correct="false">Watt's straight line linkage</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>3. Which of the following is the inversion of four bar chain?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Beam engine</choice>
+      <choice correct="false">Pendulum pump</choice>
+      <choice correct="false">Oscillating cylinder</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>4. Watts indicator is an inversion of</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Six bar mechanism</choice>
+      <choice correct="false">Double slider crank mechanism</choice>
+      <choice correct="false">Slider crank mechanism</choice>
+      <choice correct="true">Four bar mechanism</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. The links in a four bar mechanism is ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Binary link</choice>
+      <choice correct="false">Flexible link</choice>
+      <choice correct="false">None of these</choice>
+      <choice correct="false">Ternary link</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

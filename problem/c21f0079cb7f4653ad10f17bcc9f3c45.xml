@@ -1,0 +1,51 @@
+<problem display_name="Multiple Choice" markdown="1. How many revolute joints does a scotch yoke mechanism have?&#10;&#10; ()   3&#10; (x)   2&#10; ()   None of these&#10; ()   1&#10; &#10; 2. Scotch Yoke Mechanism is an inversion of ?&#10;&#10; ()   Slider Crank Linkage&#10; (x)   Double Slider Crank Linkage&#10; ()   Four Bar Linkage&#10; ()   None of these&#10; &#10; 3. Acceleration of an object whose displacement is varying with time can be found by?&#10;&#10; ()   Integrating the displacement function with respect to time twice&#10; (x)   Differentiating the displacement function with respect to time twice&#10; ()   Integrating the displacement function with respect to time once&#10; ()   Differentiating the displacement function with respect to time once&#10; &#10; 4. Inversions are formed by&#10;&#10;  (x)  fixing different links in the kinematic linkage&#10;  ()  changing link lengths in kinematic linkage to get same motion&#10;  ()  changing the kinematic pairs in kinematic linkage e.g. from revolute to prismatic&#10;  ()  none of these&#10;  &#10;  5. How many prismatic joints does a scotch yoke mechanism have?&#10;&#10; (x)   2&#10; ()   1&#10; ()   3&#10; ()   None of these">
+  <p>1. How many revolute joints does a scotch yoke mechanism have?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">3</choice>
+      <choice correct="true">2</choice>
+      <choice correct="false">None of these</choice>
+      <choice correct="false">1</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 2. Scotch Yoke Mechanism is an inversion of ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Slider Crank Linkage</choice>
+      <choice correct="true">Double Slider Crank Linkage</choice>
+      <choice correct="false">Four Bar Linkage</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 3. Acceleration of an object whose displacement is varying with time can be found by?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Integrating the displacement function with respect to time twice</choice>
+      <choice correct="true">Differentiating the displacement function with respect to time twice</choice>
+      <choice correct="false">Integrating the displacement function with respect to time once</choice>
+      <choice correct="false">Differentiating the displacement function with respect to time once</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 4. Inversions are formed by</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">fixing different links in the kinematic linkage</choice>
+      <choice correct="false">changing link lengths in kinematic linkage to get same motion</choice>
+      <choice correct="false">changing the kinematic pairs in kinematic linkage e.g. from revolute to prismatic</choice>
+      <choice correct="false">none of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  5. How many prismatic joints does a scotch yoke mechanism have?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">2</choice>
+      <choice correct="false">1</choice>
+      <choice correct="false">3</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

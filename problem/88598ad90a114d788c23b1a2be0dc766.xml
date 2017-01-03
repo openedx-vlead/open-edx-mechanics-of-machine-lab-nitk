@@ -1,0 +1,49 @@
+<problem display_name="Multiple Choice" markdown="1. What is the angle swept by connecting rod for l/r ratio 2?&#10;&#10;()    30o&#10;(x)    60o&#10;()    90o&#10;()    Data insufficient&#10;&#10;2. Measured from +X-axis what is the angular position of connecting rod when at a crank position of 30o the crank shaft is perpendicular to connecting rod ?&#10;&#10;()    160o&#10;()    60o&#10;(x)   120o&#10;()    150o&#10;  &#10;3. What is the max distance travelled by slider for a slider crank mechanism with crank length 10cm?&#10;&#10; ()   5cm&#10; (x)   20cm&#10; ()   None of these&#10; ()   10cm  &#10;&#10;4. At which of the following crank angle position pairs is the slider at the same location&#10;&#10;  ()  90o,270o&#10;  (x)  All of these&#10;  ()  120o,240o&#10;  ()  30o,330o&#10;  &#10;  5. For a 5cm crank shaft rotating a 3rpm what is the average speed in cm/s of the slider?&#10;&#10;(x)    1&#10;()    4&#10;()    3&#10;()    2">
+  <p>1. What is the angle swept by connecting rod for l/r ratio 2?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">30o</choice>
+      <choice correct="true">60o</choice>
+      <choice correct="false">90o</choice>
+      <choice correct="false">Data insufficient</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. Measured from +X-axis what is the angular position of connecting rod when at a crank position of 30o the crank shaft is perpendicular to connecting rod ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">160o</choice>
+      <choice correct="false">60o</choice>
+      <choice correct="true">120o</choice>
+      <choice correct="false">150o</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>3. What is the max distance travelled by slider for a slider crank mechanism with crank length 10cm?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">5cm</choice>
+      <choice correct="true">20cm</choice>
+      <choice correct="false">None of these</choice>
+      <choice correct="false">10cm</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. At which of the following crank angle position pairs is the slider at the same location</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">90o,270o</choice>
+      <choice correct="true">All of these</choice>
+      <choice correct="false">120o,240o</choice>
+      <choice correct="false">30o,330o</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  5. For a 5cm crank shaft rotating a 3rpm what is the average speed in cm/s of the slider?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">1</choice>
+      <choice correct="false">4</choice>
+      <choice correct="false">3</choice>
+      <choice correct="false">2</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>
