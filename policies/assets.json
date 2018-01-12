@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "MECH05", 
+            "course": "mech05", 
             "name": "mechanics-of-machine.jpg", 
-            "org": "NIT-Surathkal", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "mechanics-of-machine.jpg", 
-        "filename": "asset-v1:NIT-Surathkal+MECH05+Anytime+type@asset+block@mechanics-of-machine.jpg", 
+        "filename": "asset-v1:Virtual-Labs+mech05+Anytime+type@asset+block@mechanics-of-machine.jpg", 
         "import_path": "mechanics-of-machine.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "NIT-Surathkal", 
-            "MECH05", 
+            "Virtual-Labs", 
+            "mech05", 
             "thumbnail", 
             "mechanics-of-machine.jpg", 
             null
